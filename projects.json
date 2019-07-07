@@ -1,7 +1,10 @@
 {
 	projects: {
 		pomodoro: {
-			url: "ericheredia.github.io"
+			name: "Pomodoro Clock",
+			url: "ericheredia.github.io",
+			git: "https://github.com/EricHeredia/pomodoro-clock",
+			tech: ["React", "JavaScript", "HTML", "CSS"]
 		}
 	}
 }
