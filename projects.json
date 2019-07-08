@@ -7,49 +7,49 @@
 			tech: ["React", "JavaScript", "HTML", "CSS"],
 	                image: "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png"
 		},
-		pomodoro: {
+		pomodoroTwo: {
 			name: "Pomodoro Clock 2",
 			url: "ericheredia.github.io",
 			git: "https://github.com/EricHeredia/pomodoro-clock",
 			tech: ["React", "JavaScript", "HTML", "CSS"],
 	                image: "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png"
 		},
-                pomodoro: {
+                pomodoroThree: {
 			name: "Pomodoro Clock 3",
 			url: "ericheredia.github.io",
 			git: "https://github.com/EricHeredia/pomodoro-clock",
 			tech: ["React", "JavaScript", "HTML", "CSS"],
 	                image: "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png"
 		},
-                pomodoro: {
+                pomodoroFour: {
 			name: "Pomodoro Clock 4",
 			url: "ericheredia.github.io",
 			git: "https://github.com/EricHeredia/pomodoro-clock",
 			tech: ["React", "JavaScript", "HTML", "CSS"],
 	                image: "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png"
 		},
-                pomodoro: {
+                pomodoroFive: {
 			name: "Pomodoro Clock 5",
 			url: "ericheredia.github.io",
 			git: "https://github.com/EricHeredia/pomodoro-clock",
 			tech: ["React", "JavaScript", "HTML", "CSS"],
 	                image: "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png"
 		},
-                pomodoro: {
+                pomodoroSix: {
 			name: "Pomodoro Clock 6",
 			url: "ericheredia.github.io",
 			git: "https://github.com/EricHeredia/pomodoro-clock",
 			tech: ["React", "JavaScript", "HTML", "CSS"],
 	                image: "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png"
 		},
-                pomodoro: {
+                pomodoroSeven: {
 			name: "Pomodoro Clock 7",
 			url: "ericheredia.github.io",
 			git: "https://github.com/EricHeredia/pomodoro-clock",
 			tech: ["React", "JavaScript", "HTML", "CSS"],
 	                image: "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png"
 		},
-                pomodoro: {
+                pomodoroEight: {
 			name: "Pomodoro Clock 8",
 			url: "ericheredia.github.io",
 			git: "https://github.com/EricHeredia/pomodoro-clock",
