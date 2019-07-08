@@ -7,14 +7,14 @@
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png"
 		},
-		"pomodoroTwo": {
+		pomodoroTwo: {
 			"name": "Pomodoro Clock 2",
 			"url": "ericheredia.github.io",
 			"git": "https://github.com/EricHeredia/pomodoro-clock",
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png"
 		},
-                "pomodoroThree": {
+                pomodoroThree: {
 			"name": "Pomodoro Clock 3",
 			"url": "ericheredia.github.io",
 			"git": "https://github.com/EricHeredia/pomodoro-clock",
