@@ -1,28 +1,28 @@
 	[
 		{
 			"name": "Gatsby Blog",
-			"url": "ericheredia.github.io/gatsby-blog",
+			"url": "https://ericheredia.github.io/gatsby-blog",
 			"git": "https://github.com/EricHeredia/gatsby-blog",
 			"tech": ["React", "JavaScript", "HTML", "CSS", "Gatsby.js"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
 		},
 		{
 			"name": "Pomodoro Clock",
-			"url": "ericheredia.github.io/pomodoro-clock",
+			"url": "https://ericheredia.github.io/pomodoro-clock",
 			"git": "https://github.com/EricHeredia/pomodoro-clock",
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
 		},
                 {
 			"name": "Drum Machine",
-			"url": "ericheredia.github.io/drum-machine",
+			"url": "https://ericheredia.github.io/drum-machine",
 			"git": "https://github.com/EricHeredia/drum-machine",
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
 		},
                 {
 			"name": "JavaScript Calculator",
-			"url": "ericheredia.github.io/javascript-calculator",
+			"url": "https://ericheredia.github.io/javascript-calculator",
 			"git": "https://github.com/EricHeredia/javascript-calculator",
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
@@ -45,14 +45,14 @@
 		},
                 {
 			"name": "Bar Chart",
-			"url": "ericheredia.github.io/bar-chart",
+			"url": "https://ericheredia.github.io/bar-chart",
 			"git": "https://github.com/EricHeredia/bar-chart",
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
 		},
                 {
 			"name": "Scatter Plot",
-			"url": "ericheredia.github.io/scatter-plot",
+			"url": "https://ericheredia.github.io/scatter-plot",
 			"git": "https://github.com/EricHeredia/scatter-plot",
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
