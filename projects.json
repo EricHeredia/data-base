@@ -35,7 +35,7 @@
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
 		},
                 {
-			"name": "Random Quote Machine",
+			"name": "Quote Machine",
 			"url": "https://codepen.io/EricHeredia/full/OaGPKo",
 			"git": "https://codepen.io/EricHeredia/pen/OaGPKo",
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
