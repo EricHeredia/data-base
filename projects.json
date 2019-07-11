@@ -2,7 +2,7 @@
 		{
 			"name": "Gatsby Blog",
 			"url": "https://xenodochial-ride-0c8561.netlify.com",
-			"git": "https://github.com/EricHeredia/gatsby-blog",
+			"git": "https://github.com/EricHeredia/gatsby-bootcamp",
 			"tech": ["React", "JavaScript", "HTML", "CSS", "Gatsby.js"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
 		},
@@ -32,7 +32,6 @@
 			"url": "https://codepen.io/EricHeredia/full/yQdaZx",
 			"git": "https://codepen.io/EricHeredia/pen/yQdaZx",
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
-			"codepen": true,
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
 		},
                 {
@@ -40,7 +39,6 @@
 			"url": "https://codepen.io/EricHeredia/full/OaGPKo",
 			"git": "https://codepen.io/EricHeredia/pen/OaGPKo",
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
-			"codepen": true,
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
 		},
                 {
