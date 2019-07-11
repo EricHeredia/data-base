@@ -1,57 +1,59 @@
 	[
 		{
-			"name": "Pomodoro Clock",
-			"url": "ericheredia.github.io",
-			"git": "https://github.com/EricHeredia/pomodoro-clock",
-			"tech": ["React", "JavaScript", "HTML", "CSS"],
+			"name": "Gatsby Blog",
+			"url": "ericheredia.github.io/gatsby-blog",
+			"git": "https://github.com/EricHeredia/gatsby-blog",
+			"tech": ["React", "JavaScript", "HTML", "CSS", "Gatsby.js"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
 		},
 		{
-			"name": "Pomodoro Clock 2",
-			"url": "ericheredia.github.io",
+			"name": "Pomodoro Clock",
+			"url": "ericheredia.github.io/pomodoro-clock",
 			"git": "https://github.com/EricHeredia/pomodoro-clock",
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
 		},
                 {
-			"name": "Pomodoro Clock 3",
-			"url": "ericheredia.github.io",
-			"git": "https://github.com/EricHeredia/pomodoro-clock",
+			"name": "Drum Machine",
+			"url": "ericheredia.github.io/drum-machine",
+			"git": "https://github.com/EricHeredia/drum-machine",
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
 		},
                 {
-			"name": "Pomodoro Clock 4",
-			"url": "ericheredia.github.io",
-			"git": "https://github.com/EricHeredia/pomodoro-clock",
+			"name": "JavaScript Calculator",
+			"url": "ericheredia.github.io/javascript-calculator",
+			"git": "https://github.com/EricHeredia/javascript-calculator",
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
 		},
                 {
-			"name": "Pomodoro Clock 5",
-			"url": "ericheredia.github.io",
-			"git": "https://github.com/EricHeredia/pomodoro-clock",
+			"name": "Markdown Previewer",
+			"url": "https://codepen.io/EricHeredia/full/yQdaZx",
+			"git": "https://codepen.io/EricHeredia/pen/yQdaZx",
+			"tech": ["React", "JavaScript", "HTML", "CSS"],
+			"codepen": true,
+	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
+		},
+                {
+			"name": "Random Quote Machine",
+			"url": "https://codepen.io/EricHeredia/full/OaGPKo",
+			"git": "https://codepen.io/EricHeredia/pen/OaGPKo",
+			"tech": ["React", "JavaScript", "HTML", "CSS"],
+			"codepen": true,
+	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
+		},
+                {
+			"name": "Bar Chart",
+			"url": "ericheredia.github.io/bar-chart",
+			"git": "https://github.com/EricHeredia/bar-chart",
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
 		},
                 {
-			"name": "Pomodoro Clock 6",
-			"url": "ericheredia.github.io",
-			"git": "https://github.com/EricHeredia/pomodoro-clock",
-			"tech": ["React", "JavaScript", "HTML", "CSS"],
-	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
-		},
-                {
-			"name": "Pomodoro Clock 7",
-			"url": "ericheredia.github.io",
-			"git": "https://github.com/EricHeredia/pomodoro-clock",
-			"tech": ["React", "JavaScript", "HTML", "CSS"],
-	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
-		},
-                {
-			"name": "Pomodoro Clock 8",
-			"url": "ericheredia.github.io",
-			"git": "https://github.com/EricHeredia/pomodoro-clock",
+			"name": "Scatter Plot",
+			"url": "ericheredia.github.io/scatter-plot",
+			"git": "https://github.com/EricHeredia/scatter-plot",
 			"tech": ["React", "JavaScript", "HTML", "CSS"],
 	                "image": "https://github.com/EricHeredia/data-base/blob/master/thumbnails/pomodoro.png?raw=true"
 		}
